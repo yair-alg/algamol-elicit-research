@@ -1,0 +1,79 @@
+﻿Iovinella, M., Palmieri, M., Papa, S., Auciello, C., Ventura, R., Lombardo, F., Race, M., Lubritto, C., Cicco, M. R. di, Davis, S. J., Trifuoggi, M., Marano, A., & Ciniglia, C. (2023). Biosorption of rare earth elements from luminophores by G. sulphuraria (Cyanidiophytina, Rhodophyta). Environmental Research. https://doi.org/10.1016/j.envres.2023.117281
+
+Zhou, G.-J., Peng, F.-Q., Zhang, L.-J., & Ying, G.-G. (2012). Biosorption of zinc and copper from aqueous solutions by two freshwater green microalgae Chlorella pyrenoidosa and Scenedesmus obliquus. Environmental Science and Pollution Research, 19(7), 2918–2929. https://doi.org/10.1007/s11356-012-0800-9
+
+Birungi Z. & Chirwa E. (2018). Bioremediation of toxic metals and recovery of target metals from actual wastewater using algal sorbents. Chemical Engineering Transactions, 64, 535–540. https://doi.org/10.3303/CET1864090
+
+Cameron, H., Mata, M. T., & Riquelme, C. (2018). The effect of heavy metals on the viability of Tetraselmis marina AC16-MESO and an evaluation of the potential use of this microalga in bioremediation. PeerJ, 6, e5295. https://doi.org/10.7717/peerj.5295
+
+Phiri, J. T., & Oh, S. (2024). Biosorption of Cd(II), Co(II), and Cu(II) onto Microalgae under Acidic and Neutral Conditions. Sustainability, 16(15), 6342. https://doi.org/10.3390/su16156342
+
+Şentürk, T., & Yıldız, Ş. (2016). Adsorbent effect of Chlorella vulgaris and Scenedesmus sp. (Chlorophyta) for the removal of some heavy metals and nutrients / Bazı ağır metal ve nutrient gideriminde Chlorella vulgaris ve Scenedesmus sp. (Chlorophyta)’nin adsorbent etkisi. Turkish Journal of Biochemistry, 41(2), 87–95. https://doi.org/10.1515/tjb-2016-0015
+
+Birungi, Z., & Birungi, Z. (2015). Phycoremediation of heavy metals and resource recovery of rare earth elements using green algae from eutrophic freshwater bodies.
+
+Mahdavi, H., Ulrich, A. C., & Liu, Y. (2012). Metal removal from oil sands tailings pond water by indigenous micro-alga. Chemosphere, 89(3), 350–354. https://doi.org/10.1016/j.chemosphere.2012.04.041
+
+Saavedra, R., Muñoz, R., Taboada, M. E., Vega, M., & Bolado, S. (2018). Comparative uptake study of arsenic, boron, copper, manganese and zinc from water by different green microalgae. Bioresource Technology, 263, 49–57. https://doi.org/10.1016/j.biortech.2018.04.101
+
+Saavedra Concha, R. S. (2020). Biorremediación de aguas con metales pesados mediante biomasa microalgal [Doctoral dissertation, Universidad de Valladolid]. https://doi.org/10.35376/10324/42745
+
+Kastenhofer, J., Spadiut, O., Papangelakis, V. G., & Allen, D. G. (2024). Roles of pH and phosphate in rare earth element biosorption with living acidophilic microalgae. Applied Microbiology and Biotechnology, 108(1). https://doi.org/10.1007/s00253-024-13068-8
+
+Mahan, C. A., Majidi, Vahid., & Holcombe, J. A. (1989). Evaluation of the metal uptake of several algae strains in a multicomponent matrix utilizing inductively coupled plasma emission spectrometry. Analytical Chemistry, 61(6), 624–627. https://doi.org/10.1021/ac00181a026
+
+Zainab Birungi & Evans M.N. Chirwa. (2017). Bioreduction of thallium and cadmium toxicity from industrial wastewater using microalgae. Chemical Engineering Transactions, 57, 1183–1188. https://doi.org/10.3303/CET1757198
+
+Morcelli, A., Vencato, G. L., Rech, R., & Marcílio, N. R. (2025). REMEDIATION OF TANNERY AND ELECTROPLATING WASTEWATERS: ADSORPTION OF HEAVY METALS BY Chlorella sorokiniana AND Heterochlorella luteoviridis. Química Nova. https://doi.org/10.21577/0100-4042.20250189
+
+Elleuch, J., Thabet, J., Ghribi, I., Jabeur, H., Hernández, L. E., Fendri, I., & Abdelkafi, S. (2024). Responses of Dunaliella sp. AL-1 to chromium and copper: Biochemical and physiological studies. Chemosphere, 364, 143133. https://doi.org/10.1016/j.chemosphere.2024.143133
+
+Roy, D., Greenlaw, P. N., & Shane, B. S. (1993). Adsorption of heavy metals by green algae and ground rice hulls. Journal of Environmental Science and Health . Part A: Environmental Science and Engineering and Toxicology, 28(1), 37–50. https://doi.org/10.1080/10934529309375861
+
+Fraile, A., Penche, S., González, F., Blázquez, M. L., Muñoz, J. A., & Ballester, A. (2005). Biosorption of copper, zinc, cadmium and nickel byChlorella vulgaris. Chemistry and Ecology, 21(1), 61–75. https://doi.org/10.1080/02757540512331334933
+
+Kim, H. S., Kim, M., Park, W.-K., Yang, W.-G., Nayak, M., Shin, H. H., Cho, K., Kim, D., & Oda, T. (2022). Microalgae as an Effective Recovery Agent for Vanadium in Aquatic Environment. Energies, 15(12), 4467. https://doi.org/10.3390/en15124467
+
+Peña-Castro, J. M., Martı́nez-Jerónimo, F., Esparza-Garcı́a, F., & Cañizares-Villanueva, R. O. (2004). Heavy metals removal by the microalga Scenedesmus incrassatulus in continuous cultures. Bioresource Technology, 94(2), 219–222. https://doi.org/10.1016/j.biortech.2003.12.005
+
+Kharel, H. L., Shrestha, I., Tan, M., & Selvaratnam, T. (2023). Removal of Cadmium and Lead from Synthetic Wastewater Using Galdieria sulphuraria. Environments. https://doi.org/10.3390/environments10100174
+
+Klimmek, S. (2003). Charakterisierung der Biosorption von Schwermetallen an Algen. Technische Universität Berlin. https://doi.org/10.14279/DEPOSITONCE-610
+
+Zada, S., Raza, S., Khan, S., Iqbal, A., Kai, Z., Ahmad, A., Ullah, M., Kakar, M., Fu, P., Dong, H., & Xueji, Z. (2022). Microalgal and cyanobacterial strains used for the bio sorption of copper ions from soil and wastewater and their relative study. Journal of Industrial and Engineering Chemistry, 105, 463–472. https://doi.org/10.1016/j.jiec.2021.10.003
+
+Zieliñska, A., & Chojnacka, K. (2009). The comparison of biosorption of nutritionally significant minerals in single‐ and multi‐mineral systems by the edible microalga Spirulina sp. Journal of the Science of Food and Agriculture, 89(13), 2292–2301. https://doi.org/10.1002/jsfa.3723
+
+Michalak, I., Mironiuk, M., Godlewska, K., Trynda, J., & Marycz, K. (2020). Arthrospira (Spirulina) platensis: An effective biosorbent for nutrients. Process Biochemistry, 88, 129–137. https://doi.org/10.1016/j.procbio.2019.10.004
+
+Ahmad, N., Mounsef, J. R., Abou Tayeh, J., & Lteif, R. (2020). Bioremediation of Ni, Al and Pb by the living cells of a resistant strain of microalga. Water Science and Technology, 82(5), 851–860. https://doi.org/10.2166/wst.2020.381
+
+Lee, H., Shim, E., Yun, H.-S., Park, Y.-T., Kim, D., Ji, M.-K., Kim, C.-K., Shin, W.-S., & Choi, J. (2015). Biosorption of Cu(II) by immobilized microalgae using silica: kinetic, equilibrium, and thermodynamic study. Environmental Science and Pollution Research, 23(2), 1025–1034. https://doi.org/10.1007/s11356-015-4609-1
+
+Giarikos, D. G., Brown, J., Razeghifard, R., Vo, D., Castillo, A., Nagabandi, N., Gaffney, J., Zelden, M., Antakshinova, A., Rodriguez, S., & Muhammad, S. (2021). Effects of nitrogen depletion on the biosorption capacities of Neochloris minuta and Neochloris alveolaris for five heavy metals. Applied Water Science, 11(2). https://doi.org/10.1007/s13201-021-01363-y
+
+Inthorn, D., Sidtiton, N., Silapanuntakul, S., & Silapanuntakul, A. (2002). SORPTION OF MERCURY, CADMIUM AND LEAD BY MICRO ALGAE.
+
+Inthorn, D., Sidtitoon, N., Silapanuntakul, S., & Incharoensakdi, A. (2002). Sorption of mercury , cadmium and lead by microalgae.
+
+Elleuch, J., Hmani, R., Drira, M., Michaud, P., Fendri, I., & Abdelkafi, S. (2021). Potential of three local marine microalgae from Tunisian coasts for cadmium, lead and chromium removals. Science of The Total Environment, 799, 149464. https://doi.org/10.1016/j.scitotenv.2021.149464
+
+Chen, F., Chen, B., Gan, G., Zhang, L., Liang, Y., & Wu, S. (2016). Biosorption of Zn&amp;lt;sup&amp;gt;2+&amp;lt;/sup&amp;gt; and Ni&amp;lt;sup&amp;gt;2+&amp;lt;/sup&amp;gt;, Cu&amp;lt;sup&amp;gt;2+&amp;lt;/sup&amp;gt; by Four Kinds of Active Microalgae. Journal of Materials Science and Chemical Engineering, 04(11), 12–19. https://doi.org/10.4236/msce.2016.411002
+
+Musah, B. I., Xu, Y., Liang, C., & Peng, L. (2022). Biosorption of chromium (VI), iron (II), copper (II), and nickel (II) ions onto alkaline modified Chlorella vulgaris and Spirulina platensis in binary systems. Environmental Science and Pollution Research, 29(41), 62514–62536. https://doi.org/10.1007/s11356-022-19725-7
+
+Kucuker, M. A., Nadal, J., & Kuchta, K. (2016). Comparison between Batch and Continuous Reactor Systems for Biosorption of Neodymium (Nd) using Microalgae.
+
+Palmieri, M., Iovinella, M., Davis, S. J., di Cicco, M. R., Lubritto, C., Race, M., Papa, S., Fabbricino, M., & Ciniglia, C. (2022). Galdieria sulphuraria ACUF427 Freeze-Dried Biomass as Novel Biosorbent for Rare Earth Elements. Microorganisms, 10(11), 2138. https://doi.org/10.3390/microorganisms10112138
+
+Saavedraa, R., Muñoza, R., Taboadab, M. E., Vega, M., & Boladoa, S. (2019). Bioremediation using microalgae biomass.
+
+Zak, M. T. E., Papangelakis, V. G., & Allen, D. G. (2023). Biosorption of lanthanum by acidophile Euglena mutabilis biofilms and the role of extracellular polymeric substances. Algal Research, 72, 103111. https://doi.org/10.1016/j.algal.2023.103111
+
+Wojciech Jurkowski, M. H., Thomas Brueck, R. B., & Becker, A. M. (2015). Biosorption of Neodymium by Selected Photoautotrophic and Heterotrophic Species. Journal of Chemical Engineering &amp; Process Technology, 06(04). https://doi.org/10.4172/2157-7048.1000241
+
+Gu, S., & Lan, C. Q. (2024). Mechanism of heavy metal ion biosorption by microalgal cells: A mathematic approach. Journal of Hazardous Materials, 463, 132875. https://doi.org/10.1016/j.jhazmat.2023.132875
+
+Kondo, K., Shigehisa, H., & Matsumoto, M. (2012). Adsorption of Heavy Metal Lons Onto Green Microalga Chlamydomonas Reinhardtii.
+
+Alharbi, R. M., Abdel-Raouf, N., Mohamed, M. S., Fathy, W. A., Ibraheem, I. B. M., & Hozayen, W. G. (2025). Phycomediation of cadmium contaminated aqueous solutions using Chlamydomonas sp.: process optimization and adsorption characterization. Frontiers in Bioengineering and Biotechnology, 13. https://doi.org/10.3389/fbioe.2025.1558757
